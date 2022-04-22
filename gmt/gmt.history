@@ -1,11 +1,0 @@
-# GMT 6 Session common arguments shelf
-BEGIN GMT 6.0.0
-B	xafg1000+lDistance (km)y10+lDepth (km)wSnE
-J	X
-JM	M2.75i
-JX	X11.31/-5
-R	0/60.5/40/100.5
-X	0
-Y	-7
-@L	16
-END
