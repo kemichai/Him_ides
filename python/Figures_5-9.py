@@ -76,7 +76,7 @@ catalog = cat_2
 catalog.events.sort(key=lambda e: e.origins[-1].time)
 CC_cross_section = np.array([[87.7, 28.2], [88.25, 27.65]])
 DD_cross_section = np.array([[87.4, 27.75], [88.25, 28.1]])
-mp.plot_shelly2007(catalog,
+mp.plot_migration(catalog,
                    prof_points_str=CC_cross_section,
                    prof_points_dip=DD_cross_section,
                    swath=200,
