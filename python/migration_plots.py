@@ -2,8 +2,6 @@
 """
 Code to explore any seismic migrations in the seismicity catalogs
 
-Plot according to Shelly and Beroza 2007
-=============================================
 : Chavannes-pres-rennens
 : May 2021
 : Konstantinos Michailos
@@ -26,6 +24,7 @@ fig_size[0] = 15
 fig_size[1] = 10
 plt.rcParams["figure.figsize"] = fig_size
 subplot_rect = {'left': 0.08, 'right': 0.96, 'bottom': 0.08, 'top': 0.95, 'wspace': 0.1, 'hspace': 0.1}
+
 
 def dist_calc(loc1, loc2):
     """
@@ -82,9 +81,9 @@ def plot_migration(catalog, prof_points_str, prof_points_dip,
             prof_index.append(index[i])
         return prof_dist, prof_dep, prof_mag, abs_ab * 111, prof_time, prof_str_orig, prof_index
 
-    # get specific params
+    # Get specific params
     prof_width = swath
-    # plot subplot
+    # Plot subplot
     ref_points_str = prof_points_str
     ref_points_dip = prof_points_dip
     mag = []
@@ -161,4 +160,3 @@ def plot_migration(catalog, prof_points_str, prof_points_dip,
     plt.show()
 
     return
-

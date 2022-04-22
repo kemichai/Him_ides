@@ -1,8 +1,11 @@
 """
 Ploting functions
-KM
-Feb 2021
+
+: Chavannes-pres-rennens
+: May 2021
+: Konstantinos Michailos
 """
+
 import datetime as dt
 from itertools import cycle
 from copy import deepcopy
@@ -437,4 +440,3 @@ def multi_mfd_plot(catalog_one, cat_3, cat, outfile_name='Fig_7.png'):
     plt.legend(loc=1, fontsize=16)
     plt.savefig(savefile, bbox_inches="tight", format='jpg', dpi=300)
     plt.show()
-
