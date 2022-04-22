@@ -10,7 +10,7 @@ Frontiers [link](https://www.frontiersin.org/articles/10.3389/feart.2021.742700/
 
 How to run the codes
 ------------
-The simplest way to run the codes is using anaconda and a virtual environment [conda-install link](https://docs.conda.io/en/latest/miniconda.html).
+The simplest way to run the Python codes is using anaconda and a virtual environment [conda-install link](https://docs.conda.io/en/latest/miniconda.html).
 
 Once you have installed conda, create a new environment with the following dependencies using:
 ```bash
@@ -19,6 +19,7 @@ conda create -n him_seis python=3.7 eqcorrscan=0.4.2 ipython pip obspy matplotli
 source activate him_seis
 ```
 
+The GMT codes are written in GMT 5.
 
 
 Note
