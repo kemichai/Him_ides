@@ -1,0 +1,26 @@
+# france.cpt
+#
+# extracted from France_map_Lambert-93_topographic-blank.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-france.cpt.body,v 1.4 2009/05/04 16:07:28 jjg Exp $
+# COLOR_MODEL = RGB
+0     172 208 165 500   172 208 165 
+500   148 191 139 1500   148 191 139
+1500   189 204 150 2500   189 204 150
+2500   225 228 181 3500   225 228 181
+3500   239 235 192 4500  239 235 192
+4500  222 214 163 5000  222 214 163
+5000  202 185 130 5500  202 185 130
+5500  172 154 124 6000  172 154 124
+6000  186 174 154 6500  186 174 154
+6500  202 195 184 7000  202 195 184
+7000  224 222 216 7500  224 222 216
+7500  245 244 242 8000  245 244 242
+B   0   0   0
+F 255 255 255
+N 255   0   0

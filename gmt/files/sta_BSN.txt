@@ -1,0 +1,6 @@
+#Network   Station   Latitude   Longitude   Elevation   Sitename   StartTime   EndTime
+
+#DATACENTER=IRISDMC,http://ds.iris.edu
+K5 MONG 27.260258 91.156708 863.0 Mongar Seismic Station 2017-06-25T20:00:00 2599-12-31T23:59:59
+K5 TRON 27.497847 90.509239 2260.0 Trongsa Seismic Station 2017-06-22T09:08:57 2599-12-31T23:59:59
+K5 WANG 27.503237 89.898758 1390.0 Wangdue Seismic Station 2017-06-17T11:00:00 2599-12-31T23:59:59

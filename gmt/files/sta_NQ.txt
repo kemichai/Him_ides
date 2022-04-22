@@ -1,0 +1,5 @@
+#Network   Station   Latitude   Longitude   Elevation   Sitename   StartTime   EndTime
+#DATACENTER=IRISDMC,http://ds.iris.edu
+NQ KATNP 27.712351 85.315613 1310.0 Kanti Path, Kathmandu, Nepal 2011-04-18T00:00:00 2018-06-19T23:59:59
+NQ KNSET 27.65337 85.302528 1345.0 Sainbu, Nepal 2015-06-05T19:00:00 2599-12-31T23:59:59
+NQ KTNP2 27.711941 85.315002 1310.0 Kathmandu, Nepal 2018-06-21T00:00:00 2599-12-31T23:59:59

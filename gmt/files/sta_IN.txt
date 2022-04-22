@@ -1,0 +1,6 @@
+#Network   Station   Latitude   Longitude   Elevation   Sitename   StartTime   EndTime
+
+#DATACENTER=IRISDMC,http://ds.iris.edu
+IN MNC 8.281517 73.059799 2.0 Minicoy, Lakshadweep, India 2008-01-31T00:00:00 2599-12-31T23:59:59
+IN PBA 11.655733 92.743919 79.0 Port Blair, Andaman and Nicobar Islands, India 2008-02-01T00:00:00 2599-12-31T23:59:59
+IN SHL 25.566816 91.855949 2.0 Shillong, Meghalaya, India 2007-10-14T00:00:00 2599-12-31T23:59:59
