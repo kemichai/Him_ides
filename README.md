@@ -1,14 +1,29 @@
-# Intermediate-Depth Seismicity Beneath the Himalayas
+# Him_ides - Himalayan Intermediate-Depth earthquakes
 
-## Description ##
+Description
+------------
 Set of codes (Python and GMT) for reproducing the results and plots from the manuscript titled
 "Spatio-Temporal Evolution of Intermediate-Depth 
 Seismicity Beneath the Himalayas: Implications for 
 Metamorphism and Tectonics" published in 
 Frontiers [link](https://www.frontiersin.org/articles/10.3389/feart.2021.742700/full).
 
+How to run the codes
+------------
+The simplest way to run the codes is using anaconda and a virtual environment [conda-install link](https://docs.conda.io/en/latest/miniconda.html).
 
-wip
+Once you have installed conda, create a new environment with the following dependencies using:
+```bash
+conda config --add channels conda-forge
+conda create -n him_seis python=3.7 eqcorrscan=0.4.2 ipython pip obspy matplotlib numpy pandas pyproj shapely basemap
+source activate him_seis
+```
 
-<!---[![HitCount](http://hits.dwyl.com/kemichai/codes_and_stuff.svg)](http://hits.dwyl.com/kemichai/codes_and_stuff)--->
-[![HitCount](https://hits.dwyl.com/kemichai/codes_and_stuff.svg?style=flat&show=unique)](http://hits.dwyl.com/kemichai/codes_and_stuff)
+
+
+Note
+------------
+Codes here only reproduce our results in the specific publication.
+For different applications the codes will need to be modified.
+
+
