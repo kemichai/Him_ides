@@ -5,5 +5,6 @@ How to run the codes
 python Figures_5-9.py
 
 # Run the following to create figure 10 of the publication
+python Figure_10.py
 
 ```
