@@ -10,9 +10,9 @@ Frontiers [link](https://www.frontiersin.org/articles/10.3389/feart.2021.742700/
 
 How to run the codes
 ------------
-Here you can find some short instructions on how to run the Python codes can be found [here](python/README.md).
+For some brief instructions on how to run the Python codes see [here](python/README.md).
 
-And here for the GMT codes [here](gmt/README.md).
+And for the GMT codes [here](gmt/README.md).
 
 
 Note
