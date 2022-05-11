@@ -1,8 +1,15 @@
 How to run the codes
 --------------------
-The simplest way to run the Python codes is using anaconda and a virtual environment [conda-install link](https://docs.conda.io/en/latest/miniconda.html).
+The simplest way to run these Python codes is using conda.
+ 
+Before we get started, you need to install Anaconda. 
+Anaconda is cross-platform package manager software for scientific data analysis. 
+You can download the installation file based on your operating system and install Anaconda or
+miniconda using the following [link](https://docs.conda.io/en/latest/miniconda.html)
 
-Once you have installed conda, create a new environment with the following dependencies using:
+ 
+Once you have installed conda, open a terminal (Linux) 
+create a new environment with the following dependencies using:
 ```bash
 conda config --add channels conda-forge
 conda create -n him_seis python=3.7 eqcorrscan=0.4.2 ipython pip obspy matplotlib numpy pandas pyproj shapely basemap
