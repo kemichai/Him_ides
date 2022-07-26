@@ -15,7 +15,7 @@ conda config --add channels conda-forge
 conda create -n him_seis python=3.7 eqcorrscan=0.4.2 ipython pip obspy matplotlib numpy pandas pyproj shapely basemap
 source activate him_seis
 ```
-Now you should be able to run the following and make the plots:
+Now you should be able to run the following commands in a terminal and make the plots:
 ```python
 # Run this command to create figures 5 to 9 of the publication
 python Figures_5-9.py
