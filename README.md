@@ -6,7 +6,8 @@ This repository includes scripts (Python and GMT) for reproducing the plots from
 ["Spatio-Temporal Evolution of Intermediate-Depth Seismicity Beneath the Himalayas: Implications for 
 Metamorphism and Tectonics"](https://www.frontiersin.org/articles/10.3389/feart.2021.742700/full).
 
-In this work, we apply a state-of-the-art earthquake detection techniques, starting from continuous waveform data, to examine the intermediate-depth seismicity characteristics beneath the central Himalayas (southeastern Tibet).
+In this work, we apply state-of-the-art earthquake detection techniques, starting from continuous waveform data,
+to examine the intermediate-depth seismicity characteristics beneath the central Himalayas (southeastern Tibet).
 
 How to run the codes
 ------------
@@ -15,6 +16,6 @@ For the GMT scripts click [here](gmt/README.md).
 
 Note
 ------------
-Codes here solely reproduce our results in the specific publication.
-For different applications the codes will need to be modified.
+The scripts found in this repository reproduce our results in the specific publication.
+For different applications, the codes will need to be modified.
 
